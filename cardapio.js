@@ -48,7 +48,7 @@ const cardapio = {
         { nome: "Atum",                    desc: "Atum, cebola e mussarela.",                       preco: 50.90, foto: "Atum" },
         { nome: "Alho e óleo",             desc: "Mussarela, alho dourado e azeite.",               preco: 46.90, foto: "Alho e Oleo" },
         { nome: "Brócolis com bacon",      desc: "Brócolis, bacon e mussarela.",                    preco: 52.90, foto: "Brocolis" },
-        { nome: "Strogonoff de frango",    desc: "Strogonoff de frango e batata palha.",            preco: 55.90, foto: "Strogonoff" },
+        { nome: "Strogonoff de frango",    desc: "Strogonoff de frango e batata palha.",            preco: 55.90, foto: "strogonoff" },
         { nome: "Vegetariana",             desc: "Palmito, tomate, pimentão e champignon.",         preco: 51.90, foto: "Vegetariana" },
         { nome: "Carne seca com catupiry", desc: "Carne seca desfiada e catupiry.",                 preco: 59.90, foto: "carne seca" }
     ],
