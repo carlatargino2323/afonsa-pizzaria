@@ -50,7 +50,7 @@ const cardapio = {
         { nome: "Brócolis com bacon",      desc: "Brócolis, bacon e mussarela.",                    preco: 52.90, foto: "Brocolis" },
         { nome: "Strogonoff de frango",    desc: "Strogonoff de frango e batata palha.",            preco: 55.90, foto: "strogonoff" },
         { nome: "Vegetariana",             desc: "Palmito, tomate, pimentão e champignon.",         preco: 51.90, foto: "Vegetariana" },
-        { nome: "Carne seca com catupiry", desc: "Carne seca desfiada e catupiry.",                 preco: 59.90, foto: "carne seca" }
+        { nome: "Carne seca com catupiry", desc: "Carne seca desfiada e catupiry.",                 preco: 59.90, foto: "Carne seca" }
     ],
 
     doces: [
