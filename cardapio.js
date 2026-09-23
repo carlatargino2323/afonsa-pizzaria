@@ -46,7 +46,7 @@ const cardapio = {
         { nome: "Lombo com catupiry",      desc: "Lombo canadense, catupiry e mussarela.",          preco: 53.90, foto: "lombo" },
         { nome: "Toscana",                 desc: "Linguiça toscana, cebola e mussarela.",           preco: 49.90, foto: "Toscana" },
         { nome: "Atum",                    desc: "Atum, cebola e mussarela.",                       preco: 50.90, foto: "Atum" },
-        { nome: "Alho e óleo",             desc: "Mussarela, alho dourado e azeite.",               preco: 46.90, foto: "Alho e oleo" },
+        { nome: "Alho e óleo",             desc: "Mussarela, alho dourado e azeite.",               preco: 46.90, foto: "Alho e Oleo" },
         { nome: "Brócolis com bacon",      desc: "Brócolis, bacon e mussarela.",                    preco: 52.90, foto: "Brocolis" },
         { nome: "Strogonoff de frango",    desc: "Strogonoff de frango e batata palha.",            preco: 55.90, foto: "Strogonoff" },
         { nome: "Vegetariana",             desc: "Palmito, tomate, pimentão e champignon.",         preco: 51.90, foto: "Vegetariana" },
