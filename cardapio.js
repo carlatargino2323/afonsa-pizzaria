@@ -79,7 +79,7 @@ const cardapio = {
         { nome: "Coca-Cola Zero 2L",    desc: "Refrigerante gelado.",              preco: 14.00, foto: "Coca 2",      emoji: "🥤" },
         { nome: "Guaraná 2L",           desc: "Refrigerante gelado.",              preco: 12.00, foto: "Guagua",        emoji: "🥤" },
         { nome: "Fanta Laranja 2L",     desc: "Refrigerante gelado.",              preco: 12.00, foto: "Fanta",          emoji: "🍊" },
-        { nome: "Sprite 2L",            desc: "Refrigerante gelado.",              preco: 12.00, foto: "sprite",         emoji: "🍋" },
+        { nome: "Sprite 2L",            desc: "Refrigerante gelado.",              preco: 12.00, foto: "Sprite",         emoji: "🍋" },
         { nome: "Coca-Cola lata 350ml", desc: "Refrigerante gelado.",              preco: 6.00,  foto: "Coca lata",      emoji: "🥫" },
         { nome: "Guaraná lata 350ml",   desc: "Refrigerante gelado.",              preco: 6.00,  foto: "Lata guarana",   emoji: "🥫" },
         { nome: "Suco de laranja 500ml", desc: "Natural, feito na hora.",          preco: 9.00,  foto: "Suco de laranja",   emoji: "🍊" },
