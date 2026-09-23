@@ -71,17 +71,17 @@ const cardapio = {
         { nome: "Borda de catupiry", desc: "Adicione borda recheada à sua pizza.",  preco: 8.00,  foto: "Borda 1", emoji: "🧀" },
         { nome: "Borda de cheddar",  desc: "Adicione borda recheada à sua pizza.",  preco: 8.00,  foto: "Borda 2",  emoji: "🧀" },
         { nome: "Pão de alho",       desc: "6 unidades com queijo gratinado.",      preco: 18.00, foto: "Pao",       emoji: "🥖" },
-        { nome: "Batata frita",      desc: "Porção crocante para dividir.",         preco: 22.00, foto: "batata",         emoji: "🍟" }
+        { nome: "Batata frita",      desc: "Porção crocante para dividir.",         preco: 22.00, foto: "Batata",         emoji: "🍟" }
     ],
 
     bebidas: [
-        { nome: "Coca-Cola 2L",         desc: "Refrigerante gelado.",              preco: 14.00, foto: "coca",           emoji: "🥤" },
+        { nome: "Coca-Cola 2L",         desc: "Refrigerante gelado.",              preco: 14.00, foto: "Coca",           emoji: "🥤" },
         { nome: "Coca-Cola Zero 2L",    desc: "Refrigerante gelado.",              preco: 14.00, foto: "Coca 2",      emoji: "🥤" },
         { nome: "Guaraná 2L",           desc: "Refrigerante gelado.",              preco: 12.00, foto: "Guagua",        emoji: "🥤" },
-        { nome: "Fanta Laranja 2L",     desc: "Refrigerante gelado.",              preco: 12.00, foto: "fanta",          emoji: "🍊" },
+        { nome: "Fanta Laranja 2L",     desc: "Refrigerante gelado.",              preco: 12.00, foto: "Fanta",          emoji: "🍊" },
         { nome: "Sprite 2L",            desc: "Refrigerante gelado.",              preco: 12.00, foto: "sprite",         emoji: "🍋" },
         { nome: "Coca-Cola lata 350ml", desc: "Refrigerante gelado.",              preco: 6.00,  foto: "Coca lata",      emoji: "🥫" },
-        { nome: "Guaraná lata 350ml",   desc: "Refrigerante gelado.",              preco: 6.00,  foto: "lata guarana",   emoji: "🥫" },
+        { nome: "Guaraná lata 350ml",   desc: "Refrigerante gelado.",              preco: 6.00,  foto: "Lata guarana",   emoji: "🥫" },
         { nome: "Suco de laranja 500ml", desc: "Natural, feito na hora.",          preco: 9.00,  foto: "Suco de laranja",   emoji: "🍊" },
         { nome: "Suco de uva 500ml",    desc: "Suco integral gelado.",             preco: 9.00,  foto: "Suco de uva",       emoji: "🍇" },
         { nome: "Cerveja long neck",    desc: "Consulte as marcas disponíveis.",   preco: 9.00,  foto: "cerveja",        emoji: "🍺" },
